@@ -2,7 +2,7 @@ name: Scrape and Update README
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Menjalankan setiap hari pada pukul 5 pagi
+    - cron: '0 12 * * *'  # Menjalankan setiap hari pada pukul 5 pagi GMT/7
   push:
     branches:
       - master
@@ -32,15 +32,15 @@ jobs:
           git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit
-        if: steps.verify_diff.outputs.changed == 'true'
+        # if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add 
-          git commit -m "Build" -a
+          git commit -m "Update Daily Devotional" -a
 
       - name: Push
-        if: steps.verify_diff.outputs.changed == 'true'
+        # if: steps.verify_diff.outputs.changed == 'true'
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GH_TOKEN }}
