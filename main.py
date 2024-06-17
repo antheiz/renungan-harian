@@ -49,11 +49,9 @@ if response.status_code == 200:
     markdown_output = f"""
 # {title}
 
-**Waktu:** {time}
-
 ![Header Image]({header_img_url})
 
-**Konten:**
+> {time}
 
 {content}
     """
