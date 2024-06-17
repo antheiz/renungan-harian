@@ -1,11 +1,9 @@
 
 # Tolonglah kiranya, TUHAN [[Maz 12:1](http://alkitab.sabda.org/?Maz%2012:1)]
 
-**Waktu:** Senin, 17 Juni 2024
-
 ![Header Image](https://alkitab.app/slice/sunrise.jpg)
 
-**Konten:**
+> Senin, 17 Juni 2024
 
 Doa ini sendiri istimewa, karena isinya singkat, namun tepat, padat, dan menguatkan. Daud berduka akan sedikitnya orang yang setia, kemudian menumpahkan isi hatinya dalam permohonan—ketika ciptaan gagal menolong, dia berlari kepada Sang Pencipta. Dia merasakan kelemahannya dengan sangat nyata, jika tidak, dia tak mungkin menangis meminta tolong; namun di saat yang sama, dia mendesak dirinya demi memajukan kebenaran; sebab kata "tolonglah" tak akan berlaku, jika kita sendiri tak melakukan apapun. Tersedia banyak keterusterangan, kejelasan pemahaman, dan kejelasan ucapan dalam permohonan tiga kata ini; melimpah, lebih nyata daripada ucapan bertele-tele seorang profesor. Pemazmur berlari langsung pada Allahnya, dengan doa penuh hormat; dia tahu apa yang dia cari, dan kemana mencarinya. Tuhan, ajarlah kami untuk berdoa dengan sikap yang berkenan itu.
 
