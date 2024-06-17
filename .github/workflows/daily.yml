@@ -5,7 +5,7 @@ on:
     # - cron: '0 5 * * *'  # Menjalankan setiap hari pada pukul 5 pagi
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
