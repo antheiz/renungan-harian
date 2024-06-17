@@ -57,6 +57,7 @@ if response.status_code == 200:
     """
     # Update README.md
     with open("README.md", "w") as f:
+        print(markdown_output)
         f.write(markdown_output)
 else:
     print("Halaman tidak dapat diakses")
