@@ -2,7 +2,7 @@ name: Scrape and Update README
 
 on:
   schedule:
-    - cron: '0 22 * * *'  # Menjalankan setiap hari pada pukul 5 pagi GMT/7
+    - cron: '0 2 * * *'  # Menjalankan setiap hari pada pukul 5 pagi GMT/7
   push:
     branches:
       - master
